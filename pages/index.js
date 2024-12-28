@@ -205,7 +205,7 @@ export default function Home() {
         </section>
       </main>
       <footer className="bg-[#1E4753] text-white py-4 text-center">
-        <p>&copy; 2024 Luxury Timepieces. All rights reserved.</p>
+        <p>&copy; 2024 VARMA. All rights reserved.</p>
       </footer>
     </div>
   );
