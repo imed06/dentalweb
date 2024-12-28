@@ -4,7 +4,6 @@ import { useState } from 'react';
 import { FaHeart, FaShoppingCart, FaBars, FaRegHeart } from 'react-icons/fa';
 import { MdOutlineShoppingBag } from "react-icons/md";
 import { RiMenu3Line } from "react-icons/ri";
-import SquishyCard from './SquishyCard';
 
 export default function Home() {
 
